@@ -1,5 +1,5 @@
 [package]
-name = "fnapproximations"
+name = "mapprox"
 version = "0.1.0"
 edition = "2021"
 
